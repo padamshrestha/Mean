@@ -1,0 +1,18 @@
+{
+  "name": "Mean",
+  "version": "0.0.0",
+  "homepage": "https://github.com/padamshrestha/Mean",
+  "authors": [
+    "padamshrestha <padamshres@gmail.com>"
+  ],
+  "description": "Training",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.0",
+    "toastr": "~2.0.1",
+    "angular": "~1.2.14",
+    "angular-resource": "~1.2.14",
+    "angular-route": "~1.2.14"
+  }
+}
